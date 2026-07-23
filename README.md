@@ -4,7 +4,7 @@
 - 🛠️ Experiencia en **SQL, Python, Power BI y Excel**.  
 - 📊 Interés en **Ingeniería de datos, visualización y optimización de procesos**.  
 - 🚀 Actualmente trabajando en un proyecto de **analítica de datos para una ONG de donación de alimentos**.  
-- 🌱 Aprendiendo sobre **DBT** y el **Modern Data Stack**.  
+- 🌱 Aprendiendo sobre **DBT**.  
 - 🤝 Abierto a colaborar en proyectos de **Data Analysis** y **Business Intelligence**.  
 
 ## 🧰 Tecnologías y herramientas
@@ -20,10 +20,10 @@
 
 
 ## 📂 Proyectos destacados
-- 📌 **MusicaDB** – Base de datos con paths personalizados  
-- 📌 **Banco de Alimentos** – Tablero automatizado en Power BI  
-- 📌 **Análisis de ventas** – Dashboard en Excel + Looker Studio  
-- 📌 **Scripts en Python** – Extracción y simplificación de texto EPUB  
+- 📌 **Google Cloud Data Project** – Proyecto de Analisis de Datos con Google Cloud: ingesta, procesamiento y visualización de datos usando BigQuery y Looker 
+- 📌 **Banco de Alimentos** – Proyecto de analitica end to end para una ONG.
+- 📌 **Power BI Tailwind Trader** – Proyecto Power BI - Tailwind Trader: creación de reportes interactivos de ventas y productos para una empresa de retail.
+- 📌 **UC_Davis_SQL_Capstone** – Análisis olímpico con SQL: participación, rendimiento y medallas.
 
 ## 📫 Contacto
 
@@ -33,9 +33,6 @@
   </a>
   <a href="https://www.linkedin.com/in/tuusuario/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/dgomez-tech">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
