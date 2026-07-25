@@ -35,9 +35,15 @@
   <a href="https://www.credly.com/badges/dd80c8f2-9a29-4186-8ca0-0df300150e6a/public_url" target="_blank">
     <img src="img/google-advanced-data-analytics-professional-certifi.1.png" width="110" alt="Google Advance data analytics" />
   </a>
+  &nbsp;&nbsp;
   <!-- badge Power BI -->
   <a href="https://www.credly.com/badges/2923dcf6-a165-40e6-88a8-6bba4a6a4ea1/public_url" target="_blank">
     <img src="img/microsoft-power-bi-data-analyst-professional-certif.png" width="110" alt="Power BI Certificate" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- Datos Talento Tech -->
+  <a href="https://openbadgepassport.com/app/badge/info/1172562" target="_blank">
+    <img src="2026-07-25_talento-tech-analisis-y-visualizacion-de-datos.png" width="110" alt="Datos Talento Tech" />
   </a>
   &nbsp;&nbsp;
 </p>
