@@ -35,8 +35,15 @@
   <a href="https://www.credly.com/badges/dd80c8f2-9a29-4186-8ca0-0df300150e6a/public_url" target="_blank">
     <img src="img/google-advanced-data-analytics-professional-certifi.1.png" width="110" alt="Google Advance data analytics" />
   </a>
+  <!-- badge Power BI -->
+  <a href="https://www.credly.com/badges/2923dcf6-a165-40e6-88a8-6bba4a6a4ea1/public_url" target="_blank">
+    <img src="img/microsoft-power-bi-data-analyst-professional-certif.png" width="110" alt="Power BI Certificate" />
+  </a>
+  &nbsp;&nbsp;
 </p>
+
 > 🎓 Puedes verificar todas mis certificaciones oficiales en mis perfiles de [Credly](URL_A_TU_PERFIL_DE_CREDLY) y [OpenBadges](URL_A_TU_PERFIL_DE_OPENBADGES).
+> 
 ## 📂 Proyectos destacados
 - 📌 **Google Cloud Data Project** – Proyecto de Analisis de Datos con Google Cloud: ingesta, procesamiento y visualización de datos usando BigQuery y Looker 
 - 📌 **Banco de Alimentos** – Proyecto de analitica end to end para una ONG.
