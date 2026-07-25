@@ -43,12 +43,17 @@
   &nbsp;&nbsp;
   <!-- Datos Talento Tech -->
   <a href="https://openbadgepassport.com/app/badge/info/1172562" target="_blank">
-    <img src="2026-07-25_talento-tech-analisis-y-visualizacion-de-datos.png" width="110" alt="Datos Talento Tech" />
+    <img src="img/2026-07-25_talento-tech-analisis-y-visualizacion-de-datos.png" width="110" alt="Datos Talento Tech" />
+  </a>
+  &nbsp;&nbsp;
+    <!-- GIT Talento Tech -->
+  <a href="https://openbadgepassport.com/app/badge/info/1101446" target="_blank">
+    <img src="img/  2026-07-25_talento-tech-git-github.png" width="110" alt="GIT Talento Tech" />
   </a>
   &nbsp;&nbsp;
 </p>
 
-> 🎓 Puedes verificar todas mis certificaciones oficiales en mis perfiles de [Credly](URL_A_TU_PERFIL_DE_CREDLY) y [OpenBadges](URL_A_TU_PERFIL_DE_OPENBADGES).
+> 🎓 Puedes verificar todas mis certificaciones oficiales en mis perfiles de [Credly](https://www.credly.com/users/daniel-gomez.25804d21) y [OpenBadges](https://openbadgepassport.com/app/profile/344713).
 > 
 ## 📂 Proyectos destacados
 - 📌 **Google Cloud Data Project** – Proyecto de Analisis de Datos con Google Cloud: ingesta, procesamiento y visualización de datos usando BigQuery y Looker 
