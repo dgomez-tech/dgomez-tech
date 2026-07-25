@@ -48,7 +48,7 @@
   &nbsp;&nbsp;
     <!-- GIT Talento Tech -->
   <a href="https://openbadgepassport.com/app/badge/info/1101446" target="_blank">
-    <img src="img/  2026-07-25_talento-tech-git-github.png" width="110" alt="GIT Talento Tech" />
+    <img src="img/2026-07-25_talento-tech-git-github.png" width="110" alt="GIT Talento Tech" />
   </a>
   &nbsp;&nbsp;
 </p>
