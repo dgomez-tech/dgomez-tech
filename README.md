@@ -18,7 +18,21 @@
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" alt="AWS"/>
 </p>
 
+## 📜 Certificaciones y Credenciales
 
+<p align="left">
+  <!-- Badge AWS Cloud Practitioner -->
+  <a href="https://www.credly.com/badges/5e3e3c08-de09-441c-8e10-e0a5f074d576/public_url" target="_blank">
+    <img src="img/aws-certified-cloud-practitioner.png" width="110" alt="AWS Cloud Practitioner" />
+  </a>
+  
+  <!-- badge Google Cloud Data Analytics Certificate -->
+  <a href="https://www.credly.com/badges/35c9d5ef-7309-4c07-a83b-2f7873e7f718/public_url" target="_blank">
+    <img src="img/google-cloud-data-analytics-certificate.png" width="110" alt="Google Cloud Certificate" />
+  </a>
+</p>
+
+> 🎓 Puedes verificar todas mis certificaciones oficiales en mis perfiles de [Credly](URL_A_TU_PERFIL_DE_CREDLY) y [OpenBadges](URL_A_TU_PERFIL_DE_OPENBADGES).
 ## 📂 Proyectos destacados
 - 📌 **Google Cloud Data Project** – Proyecto de Analisis de Datos con Google Cloud: ingesta, procesamiento y visualización de datos usando BigQuery y Looker 
 - 📌 **Banco de Alimentos** – Proyecto de analitica end to end para una ONG.
