@@ -30,6 +30,11 @@
   <a href="https://www.credly.com/badges/35c9d5ef-7309-4c07-a83b-2f7873e7f718/public_url" target="_blank">
     <img src="img/google-cloud-data-analytics-certificate.png" width="110" alt="Google Cloud Certificate" />
   </a>
+
+    <!-- badge Google Advance data analytics -->
+  <a href="https://www.credly.com/badges/dd80c8f2-9a29-4186-8ca0-0df300150e6a/public_url" target="_blank">
+    <img src="img/google-advanced-data-analytics-professional-certifi.1.png" width="110" alt="Google Advance data analytics" />
+  </a>
 </p>
 
 > 🎓 Puedes verificar todas mis certificaciones oficiales en mis perfiles de [Credly](URL_A_TU_PERFIL_DE_CREDLY) y [OpenBadges](URL_A_TU_PERFIL_DE_OPENBADGES).
